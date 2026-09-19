@@ -1,0 +1,6 @@
+{
+  "name": "PyQVerse",
+  "description": "Previous year question papers, practice tests and exam-wise preparation resources for India's major competitive examinations including UPSC, SSC, Defence, GATE, JEE, NEET, CAT, Banking, and Railways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
